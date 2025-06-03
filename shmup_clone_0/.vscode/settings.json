@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "shmup_clone.sln"
+    "dotnet.defaultSolution": "shmup_clone_0.sln"
 }
